@@ -6,7 +6,9 @@ El proyecto muestra una interfaz la cual permite ingresar el nombre de una ciuda
 En caso de que la ciudad no se encuentre en la base de datos (obtenida desde la api de la pagina openweathermap.org) mostrar un mensaje que indica que la ciudad no existe, y pedira al usuario que ingrese el nombre de otra ciudad.
 
 El proyecto fue realizado en python, usando flask y subido a los servidores de heroku
-El html que contiene 
+El html weather que se encuentra en templates, es el  template principal de la pagina.
+Los estilos aplicados al html para darle el diseño se encuentra en la carpeta Static
+
 ## Autor
 
 Byron De Loor
