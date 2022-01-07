@@ -12,3 +12,4 @@ Los estilos aplicados al html para darle el diseño se encuentra en la carpeta S
 ## Autor
 
 Byron De Loor
+byrdeloor@espol.edu.ec
