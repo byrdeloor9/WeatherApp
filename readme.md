@@ -1,5 +1,5 @@
 # Weather App en python con Flask
-Desplegado en Heroku [Link de la pagina](https://blooming-brook-98311.herokuapp.com/)
+Desplegado en [Heroku](https://blooming-brook-98311.herokuapp.com/)
 
 ## Descripción
 El proyecto muestra una interfaz la cual permite ingresar el nombre de una ciudad y muestra en la pantalla los datos de temperatura, descripcion del clima, humedad, y velocidad del viento.
